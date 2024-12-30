@@ -9,6 +9,13 @@
 .navbar-nav li a:hover{
     color: blue;
     text-decoration: underline;
+  /* box-shadow: 2px 2px white;
+  padding: 15px; */
+  /* border-radius: 10px; */
+ /
+  
+   
+   
 }
 .image-container{
     
@@ -74,4 +81,24 @@ h1{
 }
 .Contact{
     margin-bottom: 10px;
+}
+.fa-github{
+    color: white;
+    font-size: 35px;
+}
+.fa-linkedin{
+   color: white;
+    font-size: 35px;
+    background-color: blue;
+}
+.fa-instagram{
+   
+    color: white;
+    font-size: 35px;
+    background-color: red;
+}
+.fa-facebook{
+    color: white;
+    font-size: 35px;
+    background-color: blue;
 }
